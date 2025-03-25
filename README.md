@@ -1,6 +1,6 @@
 # projet-cv
 
-##Comment consulter le CV avec Visual Studio Code ? 
+## Comment consulter le CV avec Visual Studio Code ? 
 
 Assurez-vous d'avoir Visual Studio Code installé sur votre ordinateur.
 
